@@ -20,7 +20,7 @@ then we have the footer that means the end of the page
 ![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Homepage.png)
 
 This is a simple Html of the page 1
-![Image of Home page](https://MohamedhanySakr.github.com/Toys4us/images/HOMEcode.png)
+![Image of Home page](https://MohamedhanySakr.github.com/Easy-static-Website-for-beginners/tree/master/Toys4us/images/HOMEcode.png)
 
 ##Secand page is the Services page it contain the services that the website gives
 ![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Services.png)
