@@ -17,8 +17,9 @@ the website is a toys market named as Toys4us it consists of 5 pages
 it consists of the Available toys and the sold ones it gives you some information about the market and the sales that are available 
 it's a frontend project so there is no backend database to store the data 
 then we have the footer that means the end of the page
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Homepage.png)
-![alt text](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Homepage.png?raw=true)
+![Image of Home page](Homepage.png)
+
+
 This is a simple Html of the page 1
 ![Image of Home page](https://MohamedhanySakr.github.com/Easy-static-Website-for-beginners/tree/master/Toys4us/images/HOMEcode.png)
 
