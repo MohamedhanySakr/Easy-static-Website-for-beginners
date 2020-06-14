@@ -1,0 +1,64 @@
+<html>
+    <head>
+            <link rel="stylesheet" href="fontawesome-free-5.8.1-web/css/all.min.css">
+            <link rel="stylesheet" href="index.css">
+            <title>Toys4us|Contact</title>
+            <link rel="icon"  href="ere.webp" >
+    </head>
+
+    <body style="background-color:teal;">
+            <section>
+                    <div class="bar-top">
+                        <div class="bar-white bar-padding bar-card bar-card"style="background-color:white !important">
+                                <h2 style= "color:rgb(223, 87, 87);margin:0;font-family:-apple-system, BlinkMacSystemFont,
+                                'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+                                 sans-serif;display:solid;padding-left:10px;padding-top:30px;
+                                 ">TOYS<span style="color:	rgb(0, 120, 141);font-size:38px">4</span>US</h2>
+                          <!-- Float links to the right. Hide them on small screens -->
+                          <div class="bar-content-right bar-hide-small">
+                                <a href="HOME.html" class="bar-bar-item bar-button">HOME</a>
+                                <a  href="Services.html"class="bar-bar-item bar-button" >Services</a>
+                                <a href="offers.html"class="bar-bar-item bar-button">Offers</a>
+                            <a  href="About.html"class="bar-bar-item bar-button">About</a>
+                            <a  style="color:white;background-color:rgb(223, 87, 87)"class="bar-bar-item bar-button">Contact</a>
+                            
+                          </div>
+                        </div>
+                      </div>
+                      </section>
+                      <section style="padding-top:100px">
+                            <h1 style="text-align:center;font-family:sans-serif;color:white;font-size: 60px">Contact us</h1>
+                            
+                              <div style="width:100%;">             
+                           <div class="divform">
+                           <form action="/action_page.php"></form>
+                           <form name="form1" action="#"> 
+                            <input type='text' name='text1'placeholder="Work E-mail.."/>
+                            <input type="text" id="fname" name="phoneno" placeholder="Phone number..">
+                            <textarea id="subject" name="subject" placeholder="Go A head we're listening..." style="height:100px;width:100%"></textarea>
+                            <input class="submit" type="submit" name="submit" value="Submit" onclick="ValidateEmail(document.form1.text1)"/>
+                            </form>
+                  
+                              </div>
+                             </div>
+                              </section>
+                              <script>    
+                              function ValidateEmail(inputText)
+{
+var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+if(inputText.value.match(mailformat))
+{
+document.form1.text1.focus();
+return true;
+}
+else
+{
+alert("You have entered an invalid email address!");
+document.form1.text1.focus();
+return false;
+}
+}
+                              </script>
+
+    </body>
+</html>
