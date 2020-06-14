@@ -17,7 +17,7 @@ the website is a toys market named as Toys4us it consists of 5 pages
 it consists of the Available toys and the sold ones it gives you some information about the market and the sales that are available 
 it's a frontend project so there is no backend database to store the data 
 then we have the footer that means the end of the page
-![Image of Home page](Homepage.png)
+![Image of Home page](images/Homepage.png)
 
 
 This is a simple Html of the page 1
