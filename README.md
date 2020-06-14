@@ -17,35 +17,35 @@ the website is a toys market named as Toys4us it consists of 5 pages
 it consists of the Available toys and the sold ones it gives you some information about the market and the sales that are available 
 it's a frontend project so there is no backend database to store the data 
 then we have the footer that means the end of the page
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Homepage.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Homepage.png)
 
 This is a simple Html of the page 1
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/HOMEcode.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/HOMEcode.png)
 
 ##Secand page is the Services page it contain the services that the website gives
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Services.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Services.png)
 
 This is a simple Html of the page 2
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Servicecode.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Servicecode.png)
 
 ##Third page is the offers page that contain all the offers of the market i upload some images to make you understand the main concept
 when you understand the basics of a frontend and then move to the backend you can store the offers data with timing also
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Offers.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Offers.png)
 
 This is a simple Html of the page 3
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/offercode.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/offercode.png)
 
 ##Fourth page is a short word of the market and represent the history of it
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Aboutpage.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Aboutpage.png)
 
 This is a simple Html of the page 4
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Aboutcode.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/Aboutcode.png)
 
 ##Fifth and the last page is the Contact is a way to contact the market if their is any issue or a problem 
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/ContactPage.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/ContactPage.png)
 
 This is a simple Html of the page 5
-![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/contactcode.jpg)
+![Image of Home page](https://github.com/MohamedhanySakr/Easy-static-Website-for-beginners/tree/master/Toys4us/images/contactcode.png)
 
 #So these are all the feature of this basic website for any begineer
 You will understand alot from it but you need to increase your knowledge and try to build more features , learn about how to make your website responsive and work with the backend stuff
